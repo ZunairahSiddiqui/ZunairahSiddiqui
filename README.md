@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zunairah</h1>
+<h3 align="center">A passionate web developer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://github.blog/wp-content/uploads/2022/06/github-learning-lab-bot-brand-gradient.png?fit=1200%2C630">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairahsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="zunairahsiddiqui" /> </p>
 
-<!--
-**ZunairahSiddiqui/ZunairahSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on *E-commerce website*
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning *Next js*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [All projects](https://github.com/ZunairahSiddiqui/ZunairahSiddiqui)
+
+- 🤝 I’m looking for help with [New frame works](https://github.com/ZunairahSiddiqui/ZunairahSiddiqui)
+-
